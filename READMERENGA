@@ -1,0 +1,26 @@
+//Setup entire next-express by following the steps below
+
+//1. setup next first
+
+$ npm init -y
+
+<add supply all parameters and edit the script in package.json as follows
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+    /add>
+
+$ npm install --save react react-dom next
+
+<comment the above adds all the dependencies into the package.json file 
+  and creates the package-lock.json with all package details and dependencies details
+  /comment>
+
+<add add an index.js with no import and with simple div and h1, export default index /add>
+
+<add more pages under pages folder and Link using href
+  !! remember to import the Link from 'next/link' /add>
+
+$ npm run dev
+<run using  command and test it out /run>
+
