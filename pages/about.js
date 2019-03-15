@@ -1,7 +1,8 @@
 const About = () => (
-  <dive>
+  <div>
     <h1>About</h1>
-  </dive>
+    <p>About the company</p>
+  </div>
 );
 
 export default About;

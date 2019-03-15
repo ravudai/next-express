@@ -49,7 +49,7 @@ var _jsxFileName = "C:\\Users\\392563\\Documents\\All Local\\Programming\\react\
 
 
 var About = function About() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("dive", {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 2
@@ -61,14 +61,20 @@ var About = function About() {
       lineNumber: 3
     },
     __self: this
-  }, "About"));
+  }, "About"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: this
+  }, "About the company"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (About);
 
 /***/ }),
 
-/***/ 3:
+/***/ 2:
 /*!*****************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fabout&absolutePagePath=C%3A%5CUsers%5C392563%5CDocuments%5CAll%20Local%5CProgramming%5Creact%5Cnext-express%5Cpages%5Cabout.js ***!
   \*****************************************************************************************************************************************************************************/
@@ -91,5 +97,5 @@ module.exports = dll_55dc4e2ecf7824085104;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]));;
+},[[2,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=about.js.map
